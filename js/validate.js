@@ -18,7 +18,7 @@
 //
 //     //Si todas las validaciones pasan, se puede enviar el formulario.
 //     return true;
-// }
+//
 
 window.onload=()=>{ //Funcion de flecha en JavaScript
     'use strict'; //se ejecuta de forma estricta (activa), evitando posibles errores JavaScript
